@@ -52,6 +52,6 @@ Minecraft still controls advancement completion and which requirement details re
 
 ---
 
-Modified by **Periklis20M** and **Johnfrag**. Based on [Better Advancements](https://modrinth.com/mod/better-advancements) by **way2muchnoise**, under its original [Don't Be a Jerk non-commercial license](https://github.com/perikIis20M/Personalpicturesforprojectsperiklis20m/blob/main/improved-advancements-screen/credits/LICENSE-BetterAdvancements.md).
+Created by **Periklis20M** and **Johnfrag**. Licensed under [MIT](https://github.com/perikIis20M/Personalpicturesforprojectsperiklis20m/blob/main/improved-advancements-screen/credits/LICENSE-MIT.md).
 
 Classic Minecraft artwork belongs to Mojang. Unofficial project; not affiliated with Mojang or Microsoft.

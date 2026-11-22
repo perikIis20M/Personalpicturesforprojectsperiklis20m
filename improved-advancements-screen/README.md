@@ -7,6 +7,8 @@ Banners, screenshots and original image assets for the project. This folder cont
 - `assets/`: remaining image files from the original mod repository, with their original relative paths.
 - `modrinth-description.md`: complete description using this repository's image URLs.
 - `image-manifest.json`: migration inventory and SHA256 checksums.
-- `credits/LICENSE-BetterAdvancements.md`: preserved original mod license notice.
+- `credits/LICENSE-MIT.md`: license for the current rewritten mod implementation.
+- `credits/THIRD_PARTY_NOTICES.md`: retained Minecraft artwork and compatible MIT notices.
+- `credits/LICENSE-BetterAdvancements.md`: historical notice preserved with the archived material; it does not describe the current rewritten implementation.
 
-Images supplied by Periklis20M and Johnfrag. Minecraft artwork and font belong to Mojang Studios. Original Better Advancements credit and license are preserved; moving the images does not change the mod's license.
+Images supplied by Periklis20M and Johnfrag. Minecraft artwork and font belong to Mojang Studios. The current implementation is licensed under MIT. Archived images and third-party artwork are not relicensed by that change; historical notices remain available.
