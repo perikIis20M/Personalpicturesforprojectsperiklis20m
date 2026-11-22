@@ -1,0 +1,13 @@
+# Image assets must retain their exact bytes for the migration manifest.
+*.png -text
+*.svg -text
+*.jpg -text
+*.jpeg -text
+*.webp -text
+*.gif -text
+*.ico -text
+*.avif -text
+*.md text eol=lf
+*.json text eol=lf
+# Preserve the original upstream notice unchanged, including its line endings.
+improved-advancements-screen/credits/LICENSE-BetterAdvancements.md -text

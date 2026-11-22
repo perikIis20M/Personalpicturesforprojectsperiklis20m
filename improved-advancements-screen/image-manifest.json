@@ -1,0 +1,236 @@
+[
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/classic/achievement_background.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/classic/achievement_background.png",
+    "sha256": "75622e37b55ca5a77ab1e666621963c3c8d46c2351667a8296b6ae59223e12ba",
+    "bytes": 2107
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/classic/bedrock.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/classic/bedrock.png",
+    "sha256": "54088be8e3a4fc2aaceafbb0fc72127a35a21e649b91117778acecf4aec3f445",
+    "bytes": 225
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/classic/coal_ore.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/classic/coal_ore.png",
+    "sha256": "e99973bae2347c3f4d250319be3055ba62407e633880d64c7e071e4b67d3bd2d",
+    "bytes": 257
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/classic/diamond_ore.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/classic/diamond_ore.png",
+    "sha256": "78faaf2c633232a576dfb34d7af101ccd0466c23bc94e37ad69d00a7c56f0178",
+    "bytes": 262
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/classic/dirt.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/classic/dirt.png",
+    "sha256": "fb0450253248276e0b8d653d5a4d21c59763cbf775c0e048469ff500afaaef68",
+    "bytes": 266
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/classic/iron_ore.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/classic/iron_ore.png",
+    "sha256": "81c082a2a1a570f4adf7a022144842523932c367aa3fc2e661085473ad910bbf",
+    "bytes": 265
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/classic/redstone_ore.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/classic/redstone_ore.png",
+    "sha256": "d5c28eb0593d27e101356ad856147a812fd1e8220275a40abc54fefcbd408947",
+    "bytes": 264
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/classic/sand.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/classic/sand.png",
+    "sha256": "bbd7de669cab9b8b32da0d9dd0db0fce32655aad2edb5d4d053ad3f256d1daa1",
+    "bytes": 720
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/classic/stone.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/classic/stone.png",
+    "sha256": "489928bc2549424b7f8d979b7983e4398789dbff80b8c61f68368a02235d6927",
+    "bytes": 223
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/gui/tabs.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/gui/tabs.png",
+    "sha256": "1d4ec8e1bd26e6b27b032c48b79bc0e6fe89fb6d5e09dba2e5601220d1a20807",
+    "bytes": 1467
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/gui/widgets.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/gui/widgets.png",
+    "sha256": "76412071f7960a2168c6c705291489db9fb926bea1105dbfeff18f1a2d693266",
+    "bytes": 2160
+  },
+  {
+    "original_path": "Common/src/main/resources/assets/betteradvancements/textures/gui/window.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/assets/betteradvancements/textures/gui/window.png",
+    "sha256": "7143513520e9abea2ccea1cb2b170a26d2fe12fe795b1b9ba0dbe3507731c950",
+    "bytes": 1427
+  },
+  {
+    "original_path": "Common/src/main/resources/pack.png",
+    "path": "improved-advancements-screen/assets/Common/src/main/resources/pack.png",
+    "sha256": "cbb29f97bd32438a943a67a5269680e5f409836eea6483ce07321dfc1d4cbf3d",
+    "bytes": 12374
+  },
+  {
+    "original_path": "Fabric/src/main/resources/icon.png",
+    "path": "improved-advancements-screen/assets/Fabric/src/main/resources/icon.png",
+    "sha256": "4d999f6c79a7397074e285ee6c75e826ed43d3eef0800b09f969e4830c9c1c73",
+    "bytes": 650127
+  },
+  {
+    "original_path": "docs/banners/comparison-long.png",
+    "path": "improved-advancements-screen/banners/comparison-long.png",
+    "sha256": "d174ec4a032abce976ff36a2f80f43cb2bd7d2446e59702cfa5150cf96ee4436",
+    "bytes": 3283
+  },
+  {
+    "original_path": "docs/banners/comparison-long.svg",
+    "path": "improved-advancements-screen/banners/comparison-long.svg",
+    "sha256": "848aea7624ed6b9e739b692aee589c346247d2ed8e42ecf7e9862a5b3aeccc5a",
+    "bytes": 902441
+  },
+  {
+    "original_path": "docs/banners/comparison.png",
+    "path": "improved-advancements-screen/banners/comparison.png",
+    "sha256": "ceffc0e89d2af9a69046e0333b24187c238e0286679b24db4cbc53c862dd5d3f",
+    "bytes": 3513
+  },
+  {
+    "original_path": "docs/banners/comparison.svg",
+    "path": "improved-advancements-screen/banners/comparison.svg",
+    "sha256": "f153189db196481c97679716a092c8920db05a9e5908f1c5d296e29a7f95bdaa",
+    "bytes": 899849
+  },
+  {
+    "original_path": "docs/banners/modern-screen.png",
+    "path": "improved-advancements-screen/banners/modern-screen.png",
+    "sha256": "abc45761003613f930874147fdb5ad5cfb436d9203f1d5cd1c90fba63ad86569",
+    "bytes": 2190
+  },
+  {
+    "original_path": "docs/banners/modern-screen.svg",
+    "path": "improved-advancements-screen/banners/modern-screen.svg",
+    "sha256": "d415d913197a0c57594ce0f7b37844c8d65a3e78b906f014d17035a58e26c3c0",
+    "bytes": 873300
+  },
+  {
+    "original_path": "docs/banners/old-screen.png",
+    "path": "improved-advancements-screen/banners/old-screen.png",
+    "sha256": "f7451a710a0f45acd92b4078ee01d28d178c98b5cb3158d15b5137fa15d2ad0e",
+    "bytes": 1900
+  },
+  {
+    "original_path": "docs/banners/old-screen.svg",
+    "path": "improved-advancements-screen/banners/old-screen.svg",
+    "sha256": "13ded91c29ec94602797624b5214e4cb7c9689ee69455d716a6e64668ef92446",
+    "bytes": 871553
+  },
+  {
+    "original_path": "docs/banners/requirements.png",
+    "path": "improved-advancements-screen/banners/requirements.png",
+    "sha256": "4e497ec585789b63e775f2a41e14ea7cc4a3616816dc0067ac0a695edf4a5bde",
+    "bytes": 1985
+  },
+  {
+    "original_path": "docs/banners/requirements.svg",
+    "path": "improved-advancements-screen/banners/requirements.svg",
+    "sha256": "da737118ed22ad3d2bfa17b812d1805f2ca1ff21ed6338fd2aaa271dbe1da7d4",
+    "bytes": 876940
+  },
+  {
+    "original_path": "docs/banners/search.png",
+    "path": "improved-advancements-screen/banners/search.png",
+    "sha256": "efcd7c3fa45f3f5d65857204b4f40a52ace32ad9fa76e0f6f1f30165df1d9f88",
+    "bytes": 1843
+  },
+  {
+    "original_path": "docs/banners/search.svg",
+    "path": "improved-advancements-screen/banners/search.svg",
+    "sha256": "85aa1812373d313237a37a16cd288b56095ca2f69ada9ae587299af51dbdb4cf",
+    "bytes": 872761
+  },
+  {
+    "original_path": "docs/banners/settings.png",
+    "path": "improved-advancements-screen/banners/settings.png",
+    "sha256": "b9148138a901595bf8c69843a879339920430b6989f4c70d830da44e397a44d7",
+    "bytes": 2095
+  },
+  {
+    "original_path": "docs/banners/settings.svg",
+    "path": "improved-advancements-screen/banners/settings.svg",
+    "sha256": "1cce71778e4eb212ca34a91004f1e1eacd5bc0791893e4f3e1e9d35dbc601343",
+    "bytes": 872160
+  },
+  {
+    "original_path": "docs/banners/source/ascii.png",
+    "path": "improved-advancements-screen/banners/source/ascii.png",
+    "sha256": "e8646f1ed1f4bfd597d262cca3d8fac88ceaaa62807bbd5e607b2e3fe41c928a",
+    "bytes": 810
+  },
+  {
+    "original_path": "docs/banners/source/mod-icon.png",
+    "path": "improved-advancements-screen/banners/source/mod-icon.png",
+    "sha256": "4d999f6c79a7397074e285ee6c75e826ed43d3eef0800b09f969e4830c9c1c73",
+    "bytes": 650127
+  },
+  {
+    "original_path": "docs/banners/source/paper.png",
+    "path": "improved-advancements-screen/banners/source/paper.png",
+    "sha256": "046228bbea6334f90e915ea62c6b4050016a6b1aa575734d630a10688d9b11e7",
+    "bytes": 173
+  },
+  {
+    "original_path": "docs/banners/source/player-head.png",
+    "path": "improved-advancements-screen/banners/source/player-head.png",
+    "sha256": "40fbfc24c45f3e425aecd6971b08ebe5eae0b308176a032a13e2e5ed660aa295",
+    "bytes": 19414
+  },
+  {
+    "original_path": "docs/banners/source/spyglass.png",
+    "path": "improved-advancements-screen/banners/source/spyglass.png",
+    "sha256": "3383d57de6d83620b24430d2c82ba6647f7fe44cacac3f27a865d91e55da30fc",
+    "bytes": 1773
+  },
+  {
+    "original_path": "docs/screenshots/modern-screen.png",
+    "path": "improved-advancements-screen/screenshots/modern-screen.png",
+    "sha256": "0d89c94dabf67662e37b51b8d23093fe2f14eb71f29164d910c48a60746507eb",
+    "bytes": 106166
+  },
+  {
+    "original_path": "docs/screenshots/old-screen.png",
+    "path": "improved-advancements-screen/screenshots/old-screen.png",
+    "sha256": "21bb39b39e33cc0e7812f86ac9ffbd6566b7de0ee662f9575cd2dc4462ec934c",
+    "bytes": 184058
+  },
+  {
+    "original_path": "docs/screenshots/requirements.png",
+    "path": "improved-advancements-screen/screenshots/requirements.png",
+    "sha256": "685fd0f1f6792d75eda87b4f4700aa21a5fcc85d5db0eb4a80344963a3bafa50",
+    "bytes": 219953
+  },
+  {
+    "original_path": "docs/screenshots/settings.png",
+    "path": "improved-advancements-screen/screenshots/settings.png",
+    "sha256": "dbe92ce3abb7b1eb2d3cf48c3b85629f74a31054b76b21912f2905601d557157",
+    "bytes": 793685
+  },
+  {
+    "original_path": "Discord screenshot supplied in project description",
+    "path": "improved-advancements-screen/screenshots/search.png",
+    "sha256": "b25ed2020a7ef5b570c8f6f9a26b9918dbfbdf931c86841edd3fb048a54bad80",
+    "bytes": 122113
+  },
+  {
+    "original_path": "Discord screenshot supplied in project description",
+    "path": "improved-advancements-screen/screenshots/settings-current.png",
+    "sha256": "358a2cecfea354a47eb2fa63dd71a7559a1121eda00ffcd9d24c0de09336bb96",
+    "bytes": 586132
+  }
+]
