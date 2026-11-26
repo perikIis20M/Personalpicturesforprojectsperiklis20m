@@ -38,6 +38,8 @@ Choose an **online or previously joined player** and compare advancement progres
 
 **Player comparison requires the mod and Fabric API on both your client and the server.** All other features work client-side.
 
+![Player comparison showing both players' advancement requirements.](https://raw.githubusercontent.com/perikIis20M/Personalpicturesforprojectsperiklis20m/main/improved-advancements-screen/screenshots/comparison.png)
+
 ![Make it yours](https://raw.githubusercontent.com/perikIis20M/Personalpicturesforprojectsperiklis20m/main/improved-advancements-screen/banners/settings.png?v=classic-frames-1)
 
 Adjust screen sizes, discovery distance, saved views, tooltips, inventory tabs, and player comparison through **Mod Menu**.
