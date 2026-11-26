@@ -12,3 +12,5 @@ Banners, screenshots and original image assets for the project. This folder cont
 - `credits/LICENSE-BetterAdvancements.md`: historical notice preserved with the archived material; it does not describe the current rewritten implementation.
 
 Images supplied by Periklis20M and Johnfrag. Minecraft artwork and font belong to Mojang Studios. The current implementation is licensed under MIT. Archived images and third-party artwork are not relicensed by that change; historical notices remain available.
+
+Description heading icons now use the original classic challenge achievement frame. Minecraft artwork and font remain copyright Mojang Studios.
